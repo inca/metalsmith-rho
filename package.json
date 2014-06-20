@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-rho",
   "version": "0.0.0",
-  "description": "Text generator plugin for Metalsmith",
+  "description": "Rho text pages generator plugin for Metalsmith",
   "main": "lib/index.js",
   "dependencies": {
     "rho": "*",
