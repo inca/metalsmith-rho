@@ -1,0 +1,27 @@
+# Another awesome page written in Rho
+
+~~~ {.sidenote}
+This is content is mostly a boilerplate.
+
+Don't get let it into your head.
+~~~
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Pellentesque *bibendum* elementum risus sed imperdiet. In nec tempus elit.
+Mauris id magna et felis posuere cursus. _Vestibulum eu bibendum tellus_.
+
+Here are some links:
+
+  * [GitHub][gh]
+  * [Metalsmith][metalsmith]
+  * [Rho][rho]
+
+And, of course, a table!
+
+---------------------------- {.centered}
+  Strawberry    |  6 boxes   {.strawberry}
+  Bananas       |  500 kg    {.banana}
+  Oranges       |  20 boxes  {.orange}
+  Kiwi          |  100 packs {.kiwi}
+----------------------------

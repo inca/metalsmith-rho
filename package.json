@@ -1,0 +1,38 @@
+{
+  "name": "metalsmith-rho",
+  "version": "0.0.0",
+  "description": "Text generator plugin for Metalsmith",
+  "main": "lib/index.js",
+  "dependencies": {
+    "rho": "*",
+    "debug": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "metalsmith": "*",
+    "assert-dir-equal": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inca/metalsmith-rho"
+  },
+  "keywords": [
+    "metalsmith",
+    "rho",
+    "plugin",
+    "semantic",
+    "plain",
+    "text",
+    "html",
+    "generator"
+  ],
+  "author": "Boris Okunskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inca/metalsmith-rho/issues"
+  },
+  "homepage": "https://github.com/inca/metalsmith-rho"
+}
